@@ -1,6 +1,6 @@
 # MoonAI – Empowering Humanity Through Open Source AI
 
-Welcome to the official repository for [themoonai.org](https://themoonai.org), the central hub for MoonAI's mission-driven open-source AI projects.
+Welcome to the official repository for [themoonai.org](https://yasir13001.github.io/MoonAI_Website/), the central hub for MoonAI's mission-driven open-source AI projects.
 
 ## 🌙 Our Motto
 **"Open AI for an Open Future."**
