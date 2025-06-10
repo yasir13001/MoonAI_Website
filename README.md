@@ -34,8 +34,6 @@ Each project is hosted on its own subdomain, such as:
 - `nlp.themoonai.org`
 
 ---
-
-
 ## 🤝 How to Contribute
 
 We welcome contributions from developers, designers, researchers, and anyone passionate about ethical AI.
@@ -46,7 +44,7 @@ We welcome contributions from developers, designers, researchers, and anyone pas
 2. **Clone** your fork:
    ```bash
    git clone https://github.com/your-username/repo-name.git
-````
+   ```
 
 3. **Create a new branch**:
 
@@ -69,7 +67,7 @@ For larger features or ideas, feel free to open a [discussion](https://github.co
 
 * Website: [themoonai.org](https://themoonai.org)
 * GitHub: [github.com/themoonai](https://github.com/yasir13001/MoonAI)
-* Email: [contact@themoonai.org](mailto:contact@themoonai.org)
+* Email: [yasirkhan1301@gmail.com](yasirkhan1301@gmail.com)
 * Discord: *Coming soon!*
 
 ---
