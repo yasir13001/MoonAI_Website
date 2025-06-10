@@ -35,18 +35,6 @@ Each project is hosted on its own subdomain, such as:
 
 ---
 
-## 👥 Contributors
-
-We are grateful to the people who help make MoonAI possible:
-
-- **[Your Name]** – Founder / Lead Developer
-- **[Contributor 1]** – Frontend Developer
-- **[Contributor 2]** – Backend Engineer
-- **[Contributor 3]** – ML Researcher
-
-*Want to join the team? Scroll down to see how you can contribute!*
-
----
 
 ## 🤝 How to Contribute
 
